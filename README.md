@@ -3,4 +3,6 @@ Was able to edit previous Vancouver style so in text citations now appear in sup
 Just save as .xsl and install in your Bibliography folder
 Go to %AppData% then Microsoft > Bibliography and install there
 
+
+This is for Microsoft Word on Windows
 Hope this helps
